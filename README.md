@@ -1,1 +1,1 @@
-# test
+# Attempted SENET implementation - poor performance
